@@ -1,0 +1,12 @@
+{
+  "name": "webrtc-codelab-modernized",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "socket.io": "^4.8.3"
+  }
+}
